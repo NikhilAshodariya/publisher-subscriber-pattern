@@ -1,12 +1,12 @@
-package subscriber;
+package listener;
 
 /**
  *
  * @author Nikhil-Ashodariya
  */
-import publisher.NStack;
+import source.NStack;
 
-public class Subscriber
+public class Listener
 {
 
     public static void main(String[] args)
